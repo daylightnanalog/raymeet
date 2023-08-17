@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/token": "pages/api/token.js",
+  "/api/url": "pages/api/url.js",
+  "/custom": "pages/custom.html",
+  "/rooms/[name]": "pages/rooms/[name].html",
+  "/": "pages/index.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
